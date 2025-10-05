@@ -1,0 +1,12 @@
+C:\Users\Radiant\source\repos\FormProduk\FormProduk\bin\Debug\FormProduk.exe.config
+C:\Users\Radiant\source\repos\FormProduk\FormProduk\bin\Debug\FormProduk.exe
+C:\Users\Radiant\source\repos\FormProduk\FormProduk\bin\Debug\FormProduk.pdb
+C:\Users\Radiant\source\repos\FormProduk\FormProduk\obj\Debug\FormProduk.csproj.AssemblyReference.cache
+C:\Users\Radiant\source\repos\FormProduk\FormProduk\obj\Debug\FormProduk.FormProdukDetail.resources
+C:\Users\Radiant\source\repos\FormProduk\FormProduk\obj\Debug\FormProduk.FormProdukUtama.resources
+C:\Users\Radiant\source\repos\FormProduk\FormProduk\obj\Debug\FormProduk.Properties.Resources.resources
+C:\Users\Radiant\source\repos\FormProduk\FormProduk\obj\Debug\FormProduk.csproj.GenerateResource.cache
+C:\Users\Radiant\source\repos\FormProduk\FormProduk\obj\Debug\FormProduk.csproj.CoreCompileInputs.cache
+C:\Users\Radiant\source\repos\FormProduk\FormProduk\obj\Debug\FormProduk.exe
+C:\Users\Radiant\source\repos\FormProduk\FormProduk\obj\Debug\FormProduk.pdb
+C:\Users\Radiant\source\repos\FormProduk\FormProduk\obj\Debug\FormProduk.exe.config
